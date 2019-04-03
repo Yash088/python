@@ -1,4 +1,4 @@
 print"Yash KArla"
-var  first example
+var  first example 
 int first exaple git through command line
-
+c= init
